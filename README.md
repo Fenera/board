@@ -1,2 +1,2 @@
 #2d array for map
-picture guide for the numbers included
+(a picture guide for the numbers is included)
